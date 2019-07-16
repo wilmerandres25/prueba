@@ -1,7 +1,7 @@
 document.body.onload = function(){
   class Mensaje {
     static Imprimir(){
-      return "Hola Mundo";
+      return "Hola mundo, ahora estoy aqui";
     }
   }
 
